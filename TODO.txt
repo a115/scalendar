@@ -1,0 +1,7 @@
+Scalendar TODO:
+    * Implement calendar display views
+    * Implement calendar editing views
+    * Implement calendar querying views
+    * Implement flexible rules using dateutil's rrule
+    * Implement REST-ful calendar API (HAL?)
+    * Package and publish to Cheeseshop

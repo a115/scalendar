@@ -1,0 +1,5 @@
+Django
+ipython
+django-extensions
+coverage
+Fabric
